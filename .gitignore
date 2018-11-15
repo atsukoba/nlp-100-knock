@@ -3,3 +3,5 @@
 .DS_Store
 *.gz
 *.org
+
+.ipynb_checkpoints
